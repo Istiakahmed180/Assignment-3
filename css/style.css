@@ -22,3 +22,9 @@
 .register{
     color: var(--register);
 }
+.img-height{
+    height: 50%;
+}
+.bg-color{
+    background-color: var(--register);
+}
