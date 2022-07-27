@@ -1,0 +1,24 @@
+                                                            /* poppins google font */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins&display=swap');
+
+.google-font{
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Poppins', sans-serif;
+}
+                                                            /* color variable */
+:root{
+    --dark-02:#4A4A4A;
+    --dark-03:#777777;
+    --register:#289BDE;
+}
+
+                                                            /* navbar some css */
+.dark{
+    color: var(--dark-02);
+}
+.dark-2{
+    color:var(--dark-03);
+}
+.register{
+    color: var(--register);
+}
