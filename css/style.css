@@ -13,7 +13,7 @@
     --dark-7:#F4F4F4;
 }
 
-                                                            /* navbar some css */
+                                                            /* navbar some css start */
 .dark{
     color: var(--dark-02);
 }
@@ -32,3 +32,4 @@
 .dark-7{
     color: var(--dark-7);
 }
+                                                            /* navbar some css end */
