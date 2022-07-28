@@ -10,6 +10,7 @@
     --dark-02:#4A4A4A;
     --dark-03:#777777;
     --register:#289BDE;
+    --dark-7:#F4F4F4;
 }
 
                                                             /* navbar some css */
@@ -27,4 +28,7 @@
 }
 .bg-color{
     background-color: var(--register);
+}
+.dark-7{
+    color: var(--dark-7);
 }
