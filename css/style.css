@@ -11,9 +11,10 @@
     --dark-03:#777777;
     --register:#289BDE;
     --dark-7:#F4F4F4;
+    --student:#4A4A4A;
 }
 
-                                                            /* navbar some css start */
+                                                            
 .dark{
     color: var(--dark-02);
 }
@@ -32,4 +33,16 @@
 .dark-7{
     color: var(--dark-7);
 }
-                                                            /* navbar some css end */
+.student{
+    color: var(--student);
+}
+.fa-star{
+    color: #FBBF24;
+}
+.fa-star-half-stroke{
+    color: #FDECAE;
+}
+.fs{
+    font-size: 78%;
+}
+                                                            
